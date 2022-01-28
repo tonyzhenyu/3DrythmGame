@@ -1,0 +1,26 @@
+{
+    "Space":{
+        "Score":"star",
+        "BlockFence":"IceCone",
+        "BlockDoor":"SpaceDoor",
+        "BlockPortalDown":"SpaceGate",
+        "BlockPortalUp":"SpaceLasso",
+        "BlockStep":"SpaceStep",
+        "BlockSlope":"SpaceSlope",
+        "BlockHurdler":"SpaceHurdler",
+        "BlockStage":"SpaceStage",
+        "floor":"SpaceFloor"
+    },
+    "Base":{
+        "Score":"star",
+        "BlockFence":"Cone",
+        "BlockDoor":"Door",
+        "BlockPortalDown":"Gate",
+        "BlockPortalUp":"Lasso",
+        "BlockStep":"Step",
+        "BlockSlope":"Slope",
+        "BlockHurdler":"Hurdler",
+        "BlockStage":"Stage",
+        "floor":"Floor"
+    }
+}

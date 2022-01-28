@@ -1,0 +1,10 @@
+{
+    "Base":{
+        "id":0,
+        "SceneStyle":"Base"
+    },
+    "Space":{
+        "id" : 1 ,
+        "SceneStyle":"Space" 
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Playable":{
+        "playSpeed": 1
+
+    },
+    "path":{
+        "Resources":"Assets/Resources",
+        "textrue":"Assests/textrue",
+        "sound":"Assets/sounds",
+        "music":"Assets/music"
+    }
+
+}
