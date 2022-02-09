@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 003119ac7b6782f49a89473ab5096067, type: 3}
+  m_Name: SO_NoteObjectProfile
+  m_EditorClassIdentifier: 
+  note_obj:
+  - {fileID: 8275499317824029772, guid: 339944f538349414698273355327ad31, type: 3}
+  - {fileID: 8275499317824029772, guid: 339944f538349414698273355327ad31, type: 3}
+  - {fileID: 8275499317824029772, guid: 339944f538349414698273355327ad31, type: 3}
+  - {fileID: 8275499317824029772, guid: 1cfbd0f6d3b07ec4285ba159771db018, type: 3}
+  xScroll_obj: {fileID: 3539938104367975394, guid: af636210ef07b0f4c9ebbdcd02767233,
+    type: 3}
+  xScroll_hit_obj: {fileID: 3539938104367975394, guid: 6f2d190763575a849ab5aded53322ddd,
+    type: 3}
+  fx_obj: {fileID: 2276680218942988747, guid: 6f8b84acac4de1741b1d72c90f209d65, type: 3}

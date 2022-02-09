@@ -2,6 +2,7 @@
 
 namespace ZYTools
 {
+    
     public class FpsDebugUI : MonoBehaviour
     {
         enum RestPort { UpLeft, UpRight, DownLeft, DownRight }
@@ -14,7 +15,10 @@ namespace ZYTools
         [SerializeField] private RestPort restPort;
         [SerializeField] private GUIStyle gUIStyle;
         #endregion
-
+        private void Start()
+        {
+            DontDestroyOnLoad(this);
+        }
         void Update()
         {
             count++;
